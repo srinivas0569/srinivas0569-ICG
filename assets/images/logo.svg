@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="55px" viewBox="0 0 112 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ICG Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M31.5827338,26.636066 C31.618705,17.7801724 31.618705,8.92427885 31.6546763,0.0683852785 C29.2446043,-0.0683852785 19.676259,-0.273541114 11.1510791,6.25725298 C9.89208633,7.21464688 -0.071942446,15.1131466 0.143884892,27.8328084 C0.35971223,39.6976542 9.38848921,50.6734914 21.7625899,53.7508289 C36.9784173,57.5804045 48.8489209,47.3568054 49.6402878,46.6729526 C49.676259,39.9711953 49.676259,33.269438 49.7122302,26.6018733 C43.6690647,26.6018733 37.6258993,26.6018733 31.5827338,26.636066 Z M24.9280576,47.869695 C22.9856115,47.4251906 16.942446,45.8181366 12.2661871,40.3473143 C11.0791367,38.9796088 7.41007194,34.500373 7.26618705,27.867001 C7.05035971,18.4298326 14.2086331,12.5828912 15.2517986,11.7622679 C18.9208633,8.85589357 22.7697842,7.76172911 24.8920863,7.35141744 C24.9280576,20.8233173 24.9280576,34.3294098 24.9280576,47.869695 Z M43.5251799,42.467258 C42.1942446,43.5956151 40.2158273,44.9975133 37.5899281,46.160063 C35.323741,47.1516495 33.2374101,47.6987318 31.6546763,47.9722729 C31.6546763,43.0827255 31.6546763,38.2273707 31.6546763,33.3378233 C35.6115108,33.3378233 39.5683453,33.3378233 43.5611511,33.3378233 C43.5251799,36.3809682 43.5251799,39.4241131 43.5251799,42.467258 Z" id="path-1"></path>
+        <filter x="-5.0%" y="-4.6%" width="110.1%" height="109.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav" transform="translate(-150.000000, -22.000000)">
+            <g id="Group-2">
+                <g id="ICG-Logo" transform="translate(135.000000, 7.000000)">
+                    <g id="Logo-black-Copy">
+                        <g id="Logo-black">
+                            <g id="Group-2" fill-opacity="0">
+                                <rect id="Rectangle-4" fill="#000000" x="0" y="0" width="85" height="86"></rect>
+                                <rect id="Rectangle-4-Copy" fill="#AA2126" x="85" y="0" width="121" height="86"></rect>
+                            </g>
+                            <g id="Group-Copy" transform="translate(15.000000, 15.000000)" fill-rule="nonzero">
+                                <g id="Shape">
+                                    <use fill="#AA2126" xlink:href="#path-1"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                            <text id="ICG-Design" font-family="Anton-Regular, Anton" font-size="21" font-weight="normal" line-spacing="28" fill="#000000">
+                                <tspan x="73" y="41">ICG</tspan>
+                                <tspan x="73" y="69">DESIGN</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
